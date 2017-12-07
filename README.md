@@ -4,6 +4,7 @@
 
 ## Building and running locally
 
+
 1. Run `yarn` to install the JS dependencies.
 2. Run `yarn test` to run the JS tests (via `jest`).
 3. Run `yarn start` to run the app in development mode. You can open it
